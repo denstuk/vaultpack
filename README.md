@@ -3,4 +3,4 @@
 
 # vaultpack
 
-CLI for packaging, encryption and decryption
+Toolbox for packaging, encryption and decryption
